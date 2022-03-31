@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://spooncodes.github.io/ReactPort/",
+  "homepage": "https://spooncodes.github.io/ReactPort/index.html",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
